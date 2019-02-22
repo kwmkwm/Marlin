@@ -79,6 +79,10 @@ AD12 = 66;  AD13 = 67;  AD14 = 68;  AD15 = 69;
  #define E0_DIR_PIN          24
  #define E0_ENABLE_PIN       26
 
+ #define E1_STEP_PIN         68 
+ #define E1_DIR_PIN          28
+ #define E1_ENABLE_PIN       27
+
  #define SDPOWER            -1
  #define LED_PIN            -1 
  #define PS_ON_PIN          -1

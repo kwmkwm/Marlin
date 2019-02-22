@@ -130,7 +130,7 @@
 // The following define selects which electronics board you have.
 // Please choose the name from boards.h that matches your setup
 #ifndef MOTHERBOARD
-  #define MOTHERBOARD BOARD_PICA_REVB /* use BOARD_PICA for newer boards (board revision is printed on the silkscreen of the PCB if you are not sure)*/
+  #define MOTHERBOARD BOARD_PICA /* use BOARD_PICA for newer boards (board revision is printed on the silkscreen of the PCB if you are not sure)*/
 #endif
 
 // Optional custom name for your RepStrap or other custom machine
